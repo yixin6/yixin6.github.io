@@ -38,10 +38,10 @@ body {
 	transition: .5s;
 }
 
-.btns-bg {
-	position: absolute;
-	top: 130px;
-	left: 420px;
+ .btns-bg {
+	/*position: relative;
+	top: -30px;
+	left: 5px; */
 	display: flex;
 	justify-content: center;
 	align-items: center;
