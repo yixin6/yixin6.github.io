@@ -22,3 +22,4 @@ oPlay.onclick = function() {
 		oPlay.style.height = 36 + "px";
 	}
 }
+oPlay.onclick()
